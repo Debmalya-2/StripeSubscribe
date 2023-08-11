@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewreport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Subscribe
+	</title>
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="index.css" />
+</head>
+<body>
+	<div class="container-fluid banner">
+		<div class="row">
+			<div class="col-md-8 offset-md-2 info">
+				<h1 class="text-center">Subscription App</h1>
+				<p class="text-center">
+					Subscription Model App
+				</p>
+				<a href="/stripe/login.php" class="btn btn-md text-center">GET STARTED</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
